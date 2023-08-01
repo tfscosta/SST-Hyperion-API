@@ -13,8 +13,8 @@ Date:
   * CIP 
   * CSL
 * Versioning approaches:
-* Wiki search terms:
-* Chat tool channels: #_____________ #_____________ #_____________
+* Wiki search terms: CIP, CSL
+* Chat tool channels: #ask_hyperion
 * Time of daily sync meeting:
 
 > Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
@@ -22,6 +22,9 @@ Date:
 ### What we're currently working on
 
 * Our services and systems:
+  * CIP
+  * CSL
+  * CIL (WIP)
 * Ways of working:
 * Wider cross-team or organisational improvements:
 
