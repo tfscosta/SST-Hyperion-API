@@ -32,7 +32,7 @@ Date:
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-| .Titan          |   Collaboration  | Tribe(?)| Ad-hoc?  |
+| Titan          |  Collaboration  | Tribe(?)| Ad-hoc?    |
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
