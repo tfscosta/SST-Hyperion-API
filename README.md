@@ -15,8 +15,8 @@ Date:
   * CSL
 * Versioning approaches:
 * Wiki search terms: CIP, CSL
-* Chat tool channels: #ask_hyperion
-* Time of daily sync meeting:
+* Slack us on #ask_hyperion
+* Time of daily sync meeting: 10:00
 
 
 ### What we're currently working on
@@ -32,7 +32,7 @@ Date:
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-| Titan          |  Collaboration  | Tribe(?)| Ad-hoc?    |
+| Titan           |  Collaboration   | Alignment| Ad-hoc?  |
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
