@@ -5,8 +5,9 @@
 Date:
 
 * Team name and focus: Hyperion - Content
-* Team type: 
-* Part of a Platform? (y/n) Details:
+* Team Type: Platform
+* Part of a Platform? Yes
+ * Details: Providing CMS data to the channels Team to get information 
 * Do we provide a service to other teams? (y/n) Details:
 * What kind of Service Level Expectations do other teams have of us?
 * Software owned and evolved by this team:
@@ -17,7 +18,6 @@ Date:
 * Chat tool channels: #ask_hyperion
 * Time of daily sync meeting:
 
-> Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
 
 ### What we're currently working on
 
