@@ -45,7 +45,7 @@ Date:
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-| .               |                  |         |          |
+| Etna            |  Collaboration   | FRB hand-over|TBA          |
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
